@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Web Development Internship at OctaNet , Bhubaneswar</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    margin: 0
+    padding: 0;
+    background-color:rgb(233, 155, 229);
+  }
+
+  .header {
+    background-color: rgb(189, 117, 117);
+    color: #225094;
+    text-align: center;
+    padding: 30px;
+  }
+
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #3297a8;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+
+  .highlight {
+    padding: 10px 0;
+  }
+
+  .cta-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #d8d8be;
+    color: #9f4d88;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+
+  .footer {
+    background-color: #bc8282;
+    color: #341c2d;
+    text-align: center;
+    padding: 20px 0;
+  }
+</style>
+</head>
+<body>
+<div class="header">
+  <h1>Web Developer Internship </h1>
+  <p><b>OctaNet , Bhubaneswar</b></p>
+</div>
+
+<div class="container">
+  <h2> Introduction</h2>
+  <p>My  web developer internship program offers a hands-on experience in building cutting-edge web applications. The program lasts for one months and provides a comprehensive understanding of web development principles and practices.</p>
+
+  <h2>Highlights</h2>
+  <ul class="highlight">
+    <li>Mentorship from industry experts</li>
+    <li>Opportunity to work in Individual</li>
+    <li>Real-world project experience in web development</li>
+    <li>Enhance your skills in HTML, CSS, JavaScript, and more</li>
+  </ul>
+
+  <h2>Qualifications</h2>
+  <p>Parsuing B-tech from " TRIDENT ACADEMY OF TECHNOLOGY,BHUBANESWAR-751024</p>
+  <ul>
+    <li>Proficiency in Web development</li>
+    <li>Problem-solving skills and attention to detail</li>
+  </ul>
+
+  <a class="cta-button" href="#">Apply Now</a>
+  <br>
+  <p>Mail id:- <a href="ishanraj457@gmail.com"></a>ishanraj457@gmail.com</p>
+  <p>Contact us at:-<a href="8521538353">8521538353</p>
+    
+</div>
+
+
+</body>
+</html>
